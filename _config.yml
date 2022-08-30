@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Cellamare"
+title                    : "Lingjie Ma"
 title_separator          : "-"
-name                     : &name "Luca Cellamare"
+name                     : &name "Lingjie Ma"
 description              : &description "personal description"
-url                      : https://LucaCellamare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tennis12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LucaCellamare/LucaCellamare.github.io"
+repository               : "tennis12/tennis12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luca Cellamare"
-  avatar           : "luca_photo.jpeg"
-  bio              : "Research Scientist in Computer Vision and Machine Learning"
-  location         : "Chicago, Illinois"
+  name             : "Lingjie Ma"
+  avatar           : "MaLingjie_2018.jpeg"
+  bio              : "Clinical Associate Professor and Assistant Dean for Partnership Programs"
+  location         : "UIC, Department of Finance"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=yT7blSIAAAAJ&hl=it&oi=ao"
+  googlescholar    : 
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Luca-Cellamare"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LucaCellamare"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "luca-cellamare-219600175/"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
