@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Selected Publications"
+  - title: "Publications"
     url: /publications/
     
   - title: "Professional Leadership"
@@ -9,5 +9,5 @@ main:
   - title: "Education"
     url: /portfolio/
     
-  - title: "Selected Presentations"
+  - title: "Presentations"
     url: /cv/
